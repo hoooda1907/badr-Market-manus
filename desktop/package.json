@@ -1,0 +1,8 @@
+{
+  "name": "aswaqbadr-windows",
+  "version": "1.0.0",
+  "private": true,
+  "description": "برنامج أسواق بدر لإدارة السوبرماركت ونقطة البيع",
+  "author": "Aswaq Badr",
+  "main": "main.cjs"
+}
